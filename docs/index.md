@@ -12,9 +12,9 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 ## Event Information
 
-- Event Proposal (TBD)
+- Event Proposal (in submission)
 - Call for Participation (TBD)
-    - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements and process are available in the Call for Participation.
+    - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements will be released at a later date.
 - Registration via the SIGCSE Conference registration.
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
 - Detailed Event Agenda (TBD)
