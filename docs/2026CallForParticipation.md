@@ -27,9 +27,10 @@ This is a[ ](https://sigcse2024.sigcse.org/)[SIGCSE 2026](https://sigcse2026.sig
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Due                    | Tuesday, January 14th, 2025 |
-| Notifications                      | Tuesday, January 28th, 2025 |
-| In-Person Event at SIGCSE          | Wednesday, February 26th, 2025, 9:00 AM – 5:00 PM EST |
+| Submissions Due                    | November 14th, 2025 |
+| Publication of Full Agenda         | December 1st, 2025 |
+| In-Person Event at SIGCSE          | February 18th, 2026 |
+
 
 - **Invitation for Submissions**
 
