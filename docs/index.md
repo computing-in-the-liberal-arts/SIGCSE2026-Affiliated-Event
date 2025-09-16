@@ -27,9 +27,9 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Due                    | TBD |
-| Notifications                      | TBD |
-| In-Person Event at SIGCSE          | TBD |
+| Submissions Due                    | November 14th, 2025 |
+| Publication of Full Agenda         | December 1st, 2025 |
+| In-Person Event at SIGCSE          | February 8th, 2025 |
 
 ## Organizers
 
