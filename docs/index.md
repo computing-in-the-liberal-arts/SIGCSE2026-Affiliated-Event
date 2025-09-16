@@ -14,7 +14,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 - [Event Proposal](2026-event-proposal.pdf)
 - [Call for Participation](2026CallForParticipation.md)
-    - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements will be released at a later date.
+    - Submissions are invited on effective innovations in liberal arts computing curricula and on explorations of unique opportunities or challenges faced by the liberal arts computing education community. Details about submissions requirements and process are available in the Call for Participation.
 - Registration via the SIGCSE Conference registration.
   - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and register for the pre-conference event as part of that.
 - Detailed Event Agenda (TBD)
@@ -27,7 +27,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Due                    | November 14th, 2025 |
+| Submissions Accepted Until         | November 14th, 2025 |
 | Publication of Full Agenda         | December 1st, 2025 |
 | In-Person Event at SIGCSE          | February 18th, 2026 |
 
