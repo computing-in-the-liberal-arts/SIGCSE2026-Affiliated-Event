@@ -10,7 +10,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2024 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/)
 - [SIGCSE 2025 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/)
 
-This full-day event, scheduled for Wednesday, February 18th, 2026 in St. Louis will promote connection and collaboration within the liberal arts computing community. It will be split into an opening half-day session of presentations and panels followed by a half-day unconference session. Submissions are invited for both sessions.
+This afternoon event, scheduled for Wednesday, February 18th, 2026 from 1:00 – 6:00 PM in St Louis, will promote connection and collaboration within the liberal arts computing community. It will be split into an opening session of presentations and panels followed by an unconference session. Submissions are invited for both sessions.
 
 The opening session will focus on topics covering the breadth of opportunities and challenges faced by liberal arts computing educators. These topics may include innovative courses, curricula, co-curricular programs, academic and career advising, faculty recruiting and retention, and other issues as identified to have a specific liberal arts perspective. Selected submissions will be presented, with additional opportunities for discussion in breakout sessions. Updates from working groups formed at the 2025 Affiliated Event will also be shared.
 
@@ -29,7 +29,7 @@ This is a[ ](https://sigcse2024.sigcse.org/)[SIGCSE 2026](https://sigcse2026.sig
 |------------------------------------|-----------------------|
 | Submissions Accepted Until         | November 14th, 2025 |
 | Publication of Full Agenda         | December 1st, 2025 |
-| In-Person Event at SIGCSE          | February 18th, 2026 |
+| In-Person Event at SIGCSE          | February 18th, 2026, 1:00 - 6:00 PM |
 
 
 - **Invitation for Submissions**
