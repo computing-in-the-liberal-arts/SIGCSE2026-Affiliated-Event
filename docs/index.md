@@ -29,7 +29,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 |------------------------------------|-----------------------|
 | Submissions Accepted Until         | November 14th, 2025 |
 | Publication of Full Agenda         | December 1st, 2025 |
-| In-Person Event at SIGCSE          | February 18th, 2026 |
+| In-Person Event at SIGCSE          | February 18th, 2026, 1:00-6:00 PM |
 
 ## Organizers
 
@@ -41,7 +41,6 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 - Jakob E. Barnard, University of Jamestown
 - Grant Braught, Dickinson College
-- Janet Davis, Whitman College
 - Matthew Ferland, Dickinson College
 - Olive Franzese, Northwestern University
 - Amanda Holland-Minkley, Washington & Jefferson College
