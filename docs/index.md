@@ -27,7 +27,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 
 | Category                           | Date|
 |------------------------------------|-----------------------|
-| Submissions Accepted Until         | November 14th, 2025 |
+| Submissions Accepted Until         | November 24th, 2025 |
 | Publication of Full Agenda         | December 1st, 2025 |
 | In-Person Event at SIGCSE          | February 18th, 2026, 1:00-6:00 PM |
 
