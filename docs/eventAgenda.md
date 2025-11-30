@@ -1,26 +1,30 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-An affiliated event at [SIGCSE 2025](https://sigcse2025.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. This event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
+An affiliated event at [SIGCSE 2026](https://sigcse2026.sigcse.org) organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges. This event will let us share and learn about curricular innovations, challenges, and opportunities particular to our liberal arts settings.
 
 ## Event Agenda
 
-- Wednesday, February 26th, 2025, 9:00am - 5:00pm
-- [David L. Lawrence Convention Center (DLCC)](https://www.pittsburghcc.com/) in Pittsburgh, Pennsylvania.
-- Meeting Rooms 302-303
+- Wednesday, February 18th, 2026, 1:00am - 5:00pm
+- [Cervantes Convention Center at the America’s Center Complex](https://explorestlouis.com/americas-center/) in St. Louis, Missouri.
+- Location TBD
 
 | Time        | Activity|
 |-------------|----------|
-| 9:00-9:15 | Welcome and Preview of Day's Events |
-| 9:15-9:30 | CS2023 Curriculum Design Process Update |
-| 9:30-10:10 | Curricular Innovations                                  |
-| 10:10-10:30 | Break |
-| 10:30-11:10 | Instructional Innovations |
-| 11:15-11:45 | Breakout Discussions |
-| 11:45-12:15 | Soliciting Committee Priorities and Unconference Topics |
-| 12:15-2:00 | Lunch Break |
-| 2:00-2:30 | Selection of Unconference Sessions |
-| 2:30-4:30 | Unconference Sessions |
-| 4:30-5:00 | Debrief and Open Discussion |
+| 1:00-2:00 | Presentation Session A                                       |
+|  | *Welcome and Introduction* |
+|  | *Report from the Essential Computing Concepts Working Group* |
+|  | *Latest Developments with Facilitated Curriculum Design Support* |
+| 2:00-2:15 | Break |
+| 2:15-3:45 | Presentation Session B            |
+|  | Talk 1: *Computer Graphics Wizard Academy: Narrative-Driven and Shader-First Graphics Education for Liberal Arts - Sing Chun LEE, singchun.lee@bucknell.edu, Bucknell University* |
+|  | Talk 2: *Discussion-Based Assessment of Student Learning in CS1 - Adam Blank, [blank@caltech.edu](mailto:blank@caltech.edu), Caltech; Zach Dodds, [dodds@hmc.edu](mailto:dodds@hmc.edu), Harvey Mudd College; Julie Medero, [jmedero@hmc.edu](mailto:jmedero@hmc.edu), Harvey Mudd College; Ben Wiedermann, [bwiedermann@hmc.edu](mailto:bwiedermann@hmc.edu), Harvey Mudd College* |
+|  | Mini Talks: *Additional mini presentations will be given on topics such as Data for Good, AI as a General Education Skill, etc.* |
+|  | Breakout Discussions |
+| 3:45-4:15 | Break |
+| 4:15-6:00 | Unconference on Liberal Arts CS Education |
+|  | Selection of Unconference Sessions |
+| 4:30-5:00 | Unconference Sessions |
+|  | Debrief and Open Discussion |
 
 Additional details on specific sessions are given below.
 
@@ -28,75 +32,25 @@ Event organizers will collect links to content created in each session and add t
 
 ## Session Details
 
-* **Morning Session: Innovations, Opportunities, and Challenges** (9:00 AM - 12:15 PM)
+**Unconference on Liberal Arts CS Education** (4:15 PM - 6:00 PM)
 
-  * *If you would like to follow along, the event slides can be found [here](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/SIGCSE25-LibArts-Event-Slides.pdf).*
+During this unconference session, participants will be invited to join a group for structured discussion or collaborative work designed to lead to a particular outcome or product. This might include structured notes on a topic, a collection of resources, a position statement, or plans for an on-going working group.
 
-* **Welcome and Preview of Day's Events** (9:00 AM - 9:15 AM)
+A preliminary list of [proposed unconference sessions](https://docs.google.com/document/d/1V1TejkXV9rHUexTZ6aUXkjH0eHq0bjqfgyIXL4AzCPM/edit?usp=sharing) will be available for review prior to the event. Additions to this list will be accepted up until the time of the event and will also be solicited at the end of the morning session. Information on submitting unconference session suggestions is available in our [Call for Submissions](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/2026CallForParticipation.html) or can be sent via email to Jakob Barnard ([Jakob.Barnard@uj.edu](mailto:Jakob.Barnard@uj.edu))
 
-  ​	The Committee on Computing Education in Liberal Arts Colleges will discuss some of its recent projects including its planned BoF sessions during the Technical Symposium. We will review the day's events including a discussion of possible unconference topics for the afternoon session.
+**Selection of Unconference Sessions** (4:15 PM - 4:30 PM)
 
-* **CS2023 Curriculum Design Process Update** (9:15-9:30 AM)
+Unconference session sponsors will briefly present their proposed topic including the desired outcomes or products from their session and plans for organizing the discussion or collaborative work. Participants will indicate interest in various sessions and a set will be selected to proceed for the rest of the afternoon. Participants will select groups to join.
 
-  ​	The Committee has continued to develop resources to support liberal arts programs in developing or revising CS curriculum while making use of the new CS2023 curricular guidelines. We will present an overview of these resources including information about facilitation support for programs interested in undertaking a curriculum redesign.
+**Unconference Sessions** (4:30 PM - 5:45 PM)
 
-* **Curriculum Innovations** (9:30 AM - 10:10 AM)
+Selected sessions will gather and session leaders will follow their provided plan for the allotted time. An announcement will be made encouraging groups to take a break at the midpoint of the session, but individual sessions will have flexibility to divide up this time in the manner that best suits their topic and intended collaboration.
 
-  - **Re-envisioning the Computer Science Major at Whitman College**
-    William Bares, Janet Davis, John Stratton, Jordan Wirfs-Brock; Whitman College
-    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/WhitmanCollege.md)
+Event organizers will collect links to content created in each session and add them to the event website.
 
-  - **Designing an Interdisciplinary Data Science Minor**
-    John Ladd, Rebecca Rapp; Washington & Jefferson College
-    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/washjeff_CurricularInnovationSubmission.md)
+**Debrief and Open Discussion** (5:45 PM - 6:00 PM)
 
-* **Break** (10:10 AM - 10:30 AM)
-
-* **Instructional Innovations** (10:30 AM - 11:10 AM)
-
-  - **From Java to Python: Revamping CS2 for a Cohesive Curriculum**
-    Proyash Podder, Hamed Yaghoobian; Muhlenberg College
-    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/muhlenberg_cs2-java-to-python.md)
-
-  - **But \*How\* Do They Use It? Scaffolding the Introduction of Generative AI Across the SLAC Curriculum**
-    Carolyn Jane Anderson; Wellesley College, Molly Q Feldman, Oberlin College
-    - [Submission (Doc)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how.docx)
-    - [Submission (Graphic)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how-figure.pdf)
-
-* **Breakout Discussions** (11:15 AM - 11:45 PM)
-
-  ​	Morning session presenters will host discussion tables for continued in-depth conversation about their curricular and instructional innovations. We will also host one or more “Connect with Colleagues” tables for those who are interested in less structured discussion and networking.
-
-* **Soliciting Committee Priorities and Unconference Topics** (11:45-12:15)
-
-  ​	We will close the morning by asking participants to reflect on what priorities they would like to see the Committee take up in the coming year and what topics they would like to see explored in more depth during the afternoon Unconference session.
-
-* **Lunch Break** (12:15 PM - 2:00 PM)
-
-* **Afternoon Session: Unconference on Liberal Arts CS Education**
-  (2:00 PM - 5:00 PM)
-
-  ​	During this unconference session, participants will be invited to join a group for structured discussion or collaborative work designed to lead to a particular outcome or product. This might include structured notes on a topic, a collection of resources, a position statement, or plans for an on-going working group.
-
-  ​	A [preliminary list of proposed unconference sessions](https://docs.google.com/document/d/1OtyQzXVxWzZsPerdMZucCCEtQvLSnyeX8tsiCOMYh1A/edit?usp=sharing) is available for review. Additions to this list will be accepted up until the time of the event and will also be solicited at the end of the morning session. Information on submitting unconference session suggestions is available in our [Call for Submissions](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/2025CallForParticipation.html) or can be sent via email to Jakob Barnard ([Jakob.Barnard@uj.edu](mailto:Jakob.Barnard@uj.edu))
-
-  ​	Upon return from lunch, attendees interact with session organizers and indicate interest in various sessions and a set will be chosen to proceed for the remainder of the afternoon.
-
-* **Selection of Unconference Sessions** (2:00 PM - 2:30 PM)
-
-  ​	Unconference session sponsors will briefly present their proposed topic including the desired outcomes or products from their session and plans for organizing the discussion or collaborative work. Participants will select groups to join for the afternoon.
-
-  - Submitted session: [Bucknell](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/unconference/bucknell-session.md)
-
-* **Unconference Sessions** (2:30 PM - 4:30 PM)
-
-  ​	Selected sessions will gather and session leaders will follow their provided plan for the allotted time. An announcement will be made encouraging groups to take a break at the midpoint of the session, but individual sessions will have flexibility to divide up this time in the manner that best suits their topic and intended collaboration.
-
-  ​	Event organizers will collect links to content created in each session and add them to the event website.
-
-* **Debrief and Open Discussion** (4:30 PM - 5:00 PM)
-
-  ​	Session leaders will briefly share the results of their session and plans, if any, for future collaboration. Participants will have the opportunity for informal discussion across groups. Additional suggestions of Committee priorities for the coming year will be collected.
+Session leaders will briefly share the results of their session and plans, if any, for future collaboration. Participants will have the opportunity for informal discussion across groups. Additional suggestions of Committee priorities for the coming year will be collected.
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

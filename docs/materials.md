@@ -1,34 +1,25 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-This page contains links to materials from the [SIGCSE 2025 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/).  Some are materials that were submitted for review prior to the event, others were presented at the event, while others were generated collaboratively and dynamically during the event by participants.  In particular, the session notes are unedited documents produced by participants live during presentation, discussion and breakout sessions.
+This page contains links to materials from the [SIGCSE 2026 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/).  Some are materials that were submitted for review prior to the event, others were presented at the event, while others were generated collaboratively and dynamically during the event by participants.  In particular, the session notes are unedited documents produced by participants live during presentation, discussion and breakout sessions.
 
 ## Submitted Materials
 
-  * Conference Event Slides can be found [here](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/SIGCSE25-LibArts-Event-Slides.pdf).
-  * **Re-envisioning the Computer Science Major at Whitman College**
-    William Bares, Janet Davis, John Stratton, Jordan Wirfs-Brock; Whitman College
-    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/WhitmanCollege.md)
-* **Designing an Interdisciplinary Data Science Minor**
-  John Ladd, Rebecca Rapp; Washington & Jefferson College
-  - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/washjeff_CurricularInnovationSubmission.md)
-  - [Session Slides](https://jrladd.com/slides/sigcse2025#/title-slide)
-* **From Java to Python: Revamping CS2 for a Cohesive Curriculum**
-  Proyash Podder, Hamed Yaghoobian; Muhlenberg College
-  - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/curricula/muhlenberg_cs2-java-to-python.md)
-  - [Session Slides](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/revamping-SIGCSE2025.pdf)
-* **But How Do They Use It? Scaffolding the Introduction of Generative AI Across the SLAC Curriculum**
-  Carolyn Jane Anderson; Wellesley College, Molly Q Feldman, Oberlin College
-  - [Submission (Doc)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how.docx)
-  - [Submission (Graphic)](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/opportunities/anderson-feldman/anderson-feldman-but-how-figure.pdf)
-* A [preliminary list of proposed unconference sessions](https://docs.google.com/document/d/1OtyQzXVxWzZsPerdMZucCCEtQvLSnyeX8tsiCOMYh1A/edit?usp=sharing) is available for review.
-  * Submitted session: [Bucknell](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/unconference/bucknell-session.md)
+  * Computer Graphics Wizard Academy: Narrative-Driven and Shader-First Graphics Education for Liberal Arts - Sing Chun LEE, singchun.lee@bucknell.edu, Bucknell University
+    - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2026-Affiliated-Event/blob/main/docs/curricula/SingChunSubmission-CurricularInnovation(SIGCSE2026Innovations and Opportunities in Liberal Arts Computing Education).docx)
 
+* Discussion-Based Assessment of Student Learning in CS1 - Adam Blank, [blank@caltech.edu](mailto:blank@caltech.edu), Caltech; Zach Dodds, [dodds@hmc.edu](mailto:dodds@hmc.edu), Harvey Mudd College; Julie Medero, [jmedero@hmc.edu](mailto:jmedero@hmc.edu), Harvey Mudd College; Ben Wiedermann, [bwiedermann@hmc.edu](mailto:bwiedermann@hmc.edu), Harvey Mudd College*
 
+  - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2026-Affiliated-Event/blob/main/docs/opportunities/OpportunitesChallenges-BlankDoddsMederoWiedermann.docx)
+
+* Integrating AI Discernment in General Education. Contributed by Mario Nakazawa, nakazawam@berea.edu, Berea College
+
+  - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2026-Affiliated-Event/blob/main/docs/unconference/UnconferenceProposalNakazawa.md)
+
+  
 
 ## Session Notes
 
-  * Unconference session on [hiring notes](https://github.com/computing-in-the-liberal-arts/SIGCSE2025-Affiliated-Event/blob/main/docs/materials/hiring-sigcse-2025.pdf).
-  * Unconference session on [Microkernel](https://docs.google.com/document/d/1YJno-N9pNXl41lAqy6jEIL9b_4_nEYujDwqVZDYJavA/edit?tab=t.0#heading=h.uc06s9jw5z2a).
+  * Unconference session on TBD.
   * Others will be posted when submitted.
 
 
