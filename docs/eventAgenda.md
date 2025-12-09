@@ -22,9 +22,9 @@ An affiliated event at [SIGCSE 2026](https://sigcse2026.sigcse.org) organized by
 |  | Breakout Discussions |
 | 3:45-4:15 | Break |
 | 4:15-6:00 | Unconference on Liberal Arts CS Education |
-|  | Selection of Unconference Sessions |
-| 4:30-5:00 | Unconference Sessions |
-|  | Debrief and Open Discussion |
+| 4:15-4:30 | Selection of Unconference Sessions |
+| 4:30-5:45 | Unconference Sessions |
+| 5:45-6:00 | Debrief and Open Discussion |
 
 Additional details on specific sessions are given below.
 
