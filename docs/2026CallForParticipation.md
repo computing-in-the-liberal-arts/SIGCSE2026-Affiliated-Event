@@ -50,7 +50,7 @@ Submissions should follow the template provided below. Submissions will be revie
 
   The program committee invites submissions following the provided templates indicating the information requested in a submission. All submissions may be made through email or GitHub pull request following the process described below. Submissions, and questions about submissions, can be sent to Jakob Barnard (Jakob.Barnard@uj.edu).
 
-  1. **Morning Session (Pick one template):**
+  1. **Opening Session (Pick one template):**
      - **Curricular Innovation Submissions:** A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts-focused educational initiatives. Please see the template below. 
      - Submission Templates: 
        - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/CurricularInnovationTemplate.html)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/CurricularInnovationTemplate.md)
@@ -59,7 +59,7 @@ Submissions should follow the template provided below. Submissions will be revie
      - Submission Templates:
        - Markdown:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitiesChallengesTemplate.html)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitiesChallengesTemplate.md ) 
        - MS Word:[ ](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/OpportunitesChallengesTemplate.docx)[https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/OpportunitesChallengesTemplate.docx)
-  2. **Afternoon Session - Unconference Submissions:** A brief (1 to 2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The Unconference session has been scheduled to run for three hours, with a half-hour break in the middle. Please see the template below.
+  2. **Second Session - Unconference Submissions:** A brief (1 to 2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The Unconference session has been scheduled to run for an hour and 45 minutes. Please see the template below.
      - Markdown:  [https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.md ) 
      - MS Word: [https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx](https://github.com/computing-in-the-liberal-arts/committee-templates/blob/main/docs/events/UnconferenceTemplate.docx ) 
 
@@ -92,7 +92,7 @@ Submissions should follow the template provided below. Submissions will be revie
   - Amanda Holland-Minkley, Washington & Jefferson College
   - Karl Schmitt, Trinity Christian College
   - Andrea Tartaro, Furman University
-  - James Teresco, Siena College
+  - James Teresco, Siena University
 
 
 
