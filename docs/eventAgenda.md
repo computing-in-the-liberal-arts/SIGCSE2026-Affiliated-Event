@@ -21,16 +21,14 @@ An affiliated event at [SIGCSE 2026](https://sigcse2026.sigcse.org) organized by
 |  | Mini Talks: *Additional mini presentations will be given on topics such as Data for Good, AI as a General Education Skill, etc.* |
 |  | Breakout Discussions |
 | 3:45-4:15 | Break |
-| 4:15-6:00 | Unconference on Liberal Arts CS Education |
-|  | Selection of Unconference Sessions |
-| 4:30-5:00 | Unconference Sessions |
-|  | Debrief and Open Discussion |
-
-Additional details on specific sessions are given below.
+| 4:15-6:00 | Unconference on Liberal Arts CS Education (see below for details) |
+| 4:15-4:30 | Selection of Unconference Sessions [proposed sessions](https://docs.google.com/document/d/1V1TejkXV9rHUexTZ6aUXkjH0eHq0bjqfgyIXL4AzCPM/edit?usp=sharing) |
+| 4:30-5:45 | Gathering of Unconference Sessions |
+| 5:45-6:00 | Debrief and Open Discussion |
 
 Event organizers will collect links to content created in each session and add them to the [Resulting materials page](materials.md).
 
-## Session Details
+## Unconference Session Details
 
 **Unconference on Liberal Arts CS Education** (4:15 PM - 6:00 PM)
 
