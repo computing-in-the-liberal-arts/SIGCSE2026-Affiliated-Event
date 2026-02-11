@@ -46,7 +46,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - Amanda Holland-Minkley, Washington & Jefferson College
 - Karl Schmitt, Trinity Christian College
 - Andrea Tartaro, Furman University
-- James Teresco, Siena College
+- James Teresco, Siena University
 
 ## Sponsors
 
