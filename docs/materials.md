@@ -21,6 +21,11 @@ This page contains links to materials from the [SIGCSE 2026 Affiliated event](ht
 
   * Unconference session on TBD.
   * Others will be posted when submitted.
+  * Session 1:
+    * Essential Computing Concepts Website: https://www.cs.kzoo.edu/presentations/ECC/EssentialComputingConcepts.html 
+    * Process Workbook: https://map-cs.org 
+
+  * Session 2: 
 
 
 ___
