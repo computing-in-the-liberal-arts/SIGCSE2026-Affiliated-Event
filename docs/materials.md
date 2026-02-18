@@ -6,7 +6,8 @@ This page contains links to materials from the [SIGCSE 2026 Affiliated event](ht
 
   * Computer Graphics Wizard Academy: Narrative-Driven and Shader-First Graphics Education for Liberal Arts - Sing Chun LEE, singchun.lee@bucknell.edu, Bucknell University
     - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2026-Affiliated-Event/blob/main/docs/curricula/SingChunSubmission-CurricularInnovation(SIGCSE2026Innovations and Opportunities in Liberal Arts Computing Education).docx)
-
+    - [Slides](materials/Computer Graphics Wizard Academy.pdf)
+    
 * Discussion-Based Assessment of Student Learning in CS1 - Adam Blank, [blank@caltech.edu](mailto:blank@caltech.edu), Caltech; Zach Dodds, [dodds@hmc.edu](mailto:dodds@hmc.edu), Harvey Mudd College; Julie Medero, [jmedero@hmc.edu](mailto:jmedero@hmc.edu), Harvey Mudd College; Ben Wiedermann, [bwiedermann@hmc.edu](mailto:bwiedermann@hmc.edu), Harvey Mudd College*
 
   - [Submission](https://github.com/computing-in-the-liberal-arts/SIGCSE2026-Affiliated-Event/blob/main/docs/opportunities/OpportunitesChallenges-BlankDoddsMederoWiedermann.docx)
