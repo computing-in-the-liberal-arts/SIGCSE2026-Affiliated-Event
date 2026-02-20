@@ -20,7 +20,7 @@ This page contains links to materials from the [SIGCSE 2026 Affiliated event](ht
 
 ## Session Notes
 
-  * Unconference session on TBD.
+  * [Unconference session notes](materials/unconference.md).
   * Others will be posted when submitted.
   * Session 1:
     * Essential Computing Concepts Website: https://www.cs.kzoo.edu/presentations/ECC/EssentialComputingConcepts.html 
