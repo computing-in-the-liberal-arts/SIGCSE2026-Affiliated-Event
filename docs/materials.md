@@ -21,13 +21,15 @@ This page contains links to materials from the [SIGCSE 2026 Affiliated event](ht
 ## Session Notes
 
   * [Unconference session notes](materials/unconference.md).
+    * [ACM Open Discussion](materials/ACM_Open_Discussion.pdf)
+
   * Others will be posted when submitted.
   * Session 1:
     * Essential Computing Concepts Website: https://www.cs.kzoo.edu/presentations/ECC/EssentialComputingConcepts.html 
     * Process Workbook: https://map-cs.org 
 
   * Session 2: 
-    * [ACM Open Discussion](materials/ACM_Open_Discussion.pdf)
+    * [SIGCS 26 - Many Futures of CS Ed Slides](materials/SIGCSE_26_Many_Futures_of_CS_Ed_slides.pdf)
 
 
 
