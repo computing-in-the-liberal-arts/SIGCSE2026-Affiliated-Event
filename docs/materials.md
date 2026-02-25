@@ -27,6 +27,8 @@ This page contains links to materials from the [SIGCSE 2026 Affiliated event](ht
     * Process Workbook: https://map-cs.org 
 
   * Session 2: 
+    * [ACM Open Discussion](materials/ACM_Open_Discussion.pdf)
+
 
 
 ___
